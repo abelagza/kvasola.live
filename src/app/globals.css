@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-/* Add these tokens to :root */
 :root {
   /* Fonts (from your screenshot) */
   --font-anton: "Anton", ui-sans-serif, system-ui;
